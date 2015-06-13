@@ -4,7 +4,7 @@ In this tutorial i show you my usb password recovery tool + keylogger.
 
 For educational purposes only.
 
-Extrahate the USBhack1.0.zip on a usb stick. (download in description)
+Extract the USBhack1.0.zip on a usb stick. (download in description)
 
 For getting the passwords.txt and starting the keylogger just start Start.bat
 
