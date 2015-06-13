@@ -11,6 +11,8 @@ You can remove the usb now, keyylogger will run in background.
 
 If you want the Keyloggs.txt put your usb stick back in and start get kellogs.bat
 
+(YouTube TuT : https://www.youtube.com/watch?v=68pjWdxCBA8)
+
 End.
 
 
